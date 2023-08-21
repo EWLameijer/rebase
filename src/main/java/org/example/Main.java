@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Hello rebase!");
         System.out.println("first");
+        System.out.println("second");
     }
 }
