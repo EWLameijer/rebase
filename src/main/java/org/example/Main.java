@@ -7,4 +7,8 @@ public class Main {
         System.out.println("first");
         System.out.println("second");
     }
+
+    private void more() {
+        System.out.println("camel");
+    }
 }
