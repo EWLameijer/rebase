@@ -10,5 +10,6 @@ public class Main {
 
     private void more() {
         System.out.println("camel");
+        System.out.println("elephant");
     }
 }
